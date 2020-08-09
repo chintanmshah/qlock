@@ -1,0 +1,23 @@
+{
+  "name": "qlock",
+  "version": "1.0.0",
+  "description": "Qlock - Time in words",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chintanmshah/qlock.git"
+  },
+  "author": "Chintan Shah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chintanmshah/qlock/issues"
+  },
+  "homepage": "https://github.com/chintanmshah/qlock#readme",
+  "devDependencies": {
+    "electron": "^9.2.0"
+  }
+}
