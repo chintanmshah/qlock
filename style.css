@@ -1,6 +1,6 @@
 body {
-    background-color: #200f21;
-    color: #382039;
+	background-color: #200f21;
+	color: #382039;
 	font-size: 1.5rem;
 	font-family: "Major Mono Display", monospace;
 }
@@ -15,4 +15,8 @@ span[class^="col-"] {
 	width: 2rem;
 	height: 2rem;
 	text-align: center;
+}
+
+.active {
+	color: white;
 }
